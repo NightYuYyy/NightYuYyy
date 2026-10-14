@@ -1,0 +1,11 @@
+Innei/Shiro: Command failed: gh api graphql --input C:\Users\zhengjiyong\AppData\Local\Temp\gh-input-1784097440549-0.5552169311015689.json
+Post "https://api.github.com/graphql": dial tcp 198.18.15.13:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+febobo/web-interview: Command failed: gh api graphql --input C:\Users\zhengjiyong\AppData\Local\Temp\gh-input-1784097468986-0.3053904102624594.json
+Post "https://api.github.com/graphql": dial tcp 198.18.15.13:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+tqjason/WeChatMsg: Command failed: gh api graphql --input C:\Users\zhengjiyong\AppData\Local\Temp\gh-input-1784097530056-0.3651122132790683.json
+Post "https://api.github.com/graphql": dial tcp 20.205.243.168:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+kuaifan/dootask: Command failed: gh api graphql --input C:\Users\zhengjiyong\AppData\Local\Temp\gh-input-1784097632438-0.7805963929595854.json
+Post "https://api.github.com/graphql": dial tcp 20.205.243.168:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
